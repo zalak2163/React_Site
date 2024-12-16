@@ -6,21 +6,29 @@ Welcome to my personal portfolio website! This site is built using React and con
 
 Features
 Skills: Lists the skills I have in various technologies.
+
 Projects: Displays my projects with important details.
+
 Contact: Provides a way to contact me.
+
 Technologies Used
+
 React: For building the frontend.
+
 Express: For the backend API.
+
 MongoDB: For storing skills and project data.
+
 Vercel: For deploying the website.
+
 Node.js: For the server-side API.
 
 API Endpoints
 The site uses the following API endpoints:
 
-Skills API:https://http5222-node-js-assignment1.onrender.com/admin/skills
+Skills API: https://http5222-node-js-assignment1.onrender.com/admin/skills
 
-Projects API:https://http5222-node-js-assignment1.onrender.com/admin/projects
+Projects API: https://http5222-node-js-assignment1.onrender.com/admin/projects
 
 
 Clone the repository:
