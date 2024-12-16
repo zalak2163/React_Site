@@ -19,6 +19,7 @@ API Endpoints
 The site uses the following API endpoints:
 
 Skills API:https://http5222-node-js-assignment1.onrender.com/admin/skills
+
 Projects API:https://http5222-node-js-assignment1.onrender.com/admin/projects
 
 
